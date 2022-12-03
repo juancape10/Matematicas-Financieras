@@ -21,5 +21,7 @@ Ejercicio 1: Si recibimos 500 um dentro de 3 meses y 700 um dentro de 6 meses, a
 
 Ejercicio 2: ¿Que prefieres, recibir 600 um dentro de 6 meses o 650 um dentro de 1 año, si se puede invertir al 9% anual?
 
-    C1 = C1 + I = 600 + 600*((12/2)/100)*1 = 636
+    C1 = C1 + I = 600 + 600*((12/2)/100)*1 = 636 
+    (ojo cambiar el interes al 9% como dice el enunciado)
+    C1 = 600 + 600*((9/2)/100)*1 = 627
     C2 = 650
